@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "title": "Program Design & Implementation",
+    "intro": "We specialize in designing and delivering customized programs that strengthen local systems, enhance organizational capacity, and drive lasting impact. Our solutions are tailored to meet the unique needs of communities, institutions, and stakeholders, combining innovation, inclusivity, and sustainability.",
+    "whatWeOffer": [
+      "Capacity Building & Modernization: Supporting organizations and systems to improve effectiveness, efficiency, and resilience.",
+      "End-to-End Program Support: Providing comprehensive program design, implementation, monitoring, and evaluation.",
+      "Tailored Training & Knowledge Sharing: Equipping stakeholders with skills and knowledge to deliver meaningful change."
+    ],
+    "keyFocus": [
+      "Food Security: Promoting innovative and sustainable approaches to increase productivity and strengthen nutrition security.",
+      "Rural Development & Community Empowerment: Driving grassroots development and empowering communities to thrive.",
+      "GEDSI (Gender Equality, Disability & Social Inclusion): Advancing equity and opportunities for women, youth, people with disabilities and marginalized groups.",
+      "One Health Integration: Fostering cross-sectoral solutions that connect human, animal, and environmental health."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Market Systems Development (MSD)",
+    "intro": "We design and implement strategies that create inclusive, efficient, and competitive market environments where all actors can thrive. Our approach focuses on:",
+    "whatWeOffer": [
+      "Building Strong Market Systems: Strengthening the connections and relationships between market players to ensure fair and sustainable growth.",
+      "Empowering Enterprises: Supporting MSMEs, cooperatives, and enterprises to scale, innovate, and compete effectively.",
+      "Promoting Inclusivity: Ensuring women, youth, and marginalized groups have equal opportunities to participate and benefit from market systems.",
+      "Driving Sustainability: Encouraging practices and partnerships that promote resilience, adaptability, and long-term impact."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Value Chain Strengthening",
+    "intro": "We strengthen agricultural and agribusiness value chains end-to-end — from production to market — to ensure efficiency, quality, and profitability. Our holistic approach focuses on:",
+    "whatWeOffer": [
+      "Empowering Producers: Building farmers’ and producers’ skills, improving access to quality inputs, and promoting best practices for productivity and sustainability.",
+      "Enhancing Processing & Packaging: Supporting value addition through improved processing techniques, innovative packaging, and compliance with quality standards.",
+      "Optimizing Logistics & Distribution: Streamlining supply chains to reduce post-harvest losses, lower costs, and improve market access.",
+      "Facilitating Market Linkages: Connecting stakeholders — producers, processors, distributors, and buyers — to create strong, sustainable networks."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Business Development Services (BDS) for MSMEs & Cooperatives",
+    "intro": "We provide the strategic and technical backbone for MSMEs and cooperatives in the food and agribusiness sector. Our tailored Business Development Services are designed to help you scale efficiently, access new markets, and build a more resilient and competitive operation.",
+    "whatWeOffer": [
+      "Strategic Advisory & Transactions: M&A, due diligence, feasibility studies, and market expansion strategies.",
+      "Business Optimization & Planning: Operations improvement, business plans, and market entry strategies.",
+      "Hands-On Coaching & Monitoring: Ongoing mentorship and performance monitoring.",
+      "Data-Driven Market Intelligence: Market analytics, value creation strategies, and supply chain optimization guidance.",
+      "Agri-Business & Food Systems: Optimizing efficiency, sustainability, and profitability from production to consumption.",
+      "AgTech & Digitalization: Leveraging technology, data analytics, and custom software.",
+      "Cybersecurity & Risk Management: Implementing frameworks to protect digital assets and ensure data privacy."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Financial Literacy",
+    "intro": "Financial acumen is the cornerstone of a thriving business. We empower MSMEs, cooperatives, and individuals within the agribusiness sector with essential financial skills and tailored programs.",
+    "whatWeOffer": [
+      "Foundational Financial Training: Budgeting, cash flow, basic accounting, and financial statements.",
+      "Access to Finance Guidance: Loans, grants, equity financing, and lender preparation.",
+      "Investment & Risk Management: Cost-benefit analysis and strategies to mitigate volatility.",
+      "Digital Financial Tools Training: Mobile banking, fintech, digital payments, and record-keeping tools.",
+      "Personal Finance Education: Budgeting, saving, credit management, and debt reduction.",
+      "Business Finance for Growth: Cash flow analysis, strategic investments, and growth planning.",
+      "Tailored Programs & Coaching: Workshops and coaching for diverse audiences, including women and youth."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "ESG & Sustainability Integration",
+    "intro": "We partner with organizations to embed ESG principles, unlocking long-term value, mitigating risk, and building trust.",
+    "whatWeOffer": [
+      "ESG Strategy & Integration",
+      "Sustainable Agriculture Consulting",
+      "Circular Economy & Waste Management",
+      "Clean Energy & Water Stewardship",
+      "Sustainability Audits",
+      "Policy & Regulatory Support",
+      "Impact Reporting & Nature & Biodiversity"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Digital Transformation & Technology (AgTech)",
+    "whatWeOffer": [
+      "AgTech Adoption",
+      "Software Development & Integration",
+      "Data Analytics & Business Intelligence",
+      "Web Design & Development",
+      "Cybersecurity & Risk Management"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Policy & Strategy Advisory",
+    "intro": "We provide evidence-based advisory services to governments, institutions, and private sector entities to design and implement policies and strategies that drive inclusive and sustainable growth.",
+    "whatWeOffer": [
+      "Policy formulation and review",
+      "Strategy development and implementation planning",
+      "Institutional reforms and governance strengthening",
+      "Sustainable economic development planning"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Capacity Building & Training",
+    "intro": "We provide tailored capacity building and training programs designed to strengthen skills, enhance knowledge, and improve organizational performance.",
+    "whatWeOffer": [
+      "Skills Development",
+      "Organizational Strengthening",
+      "Leadership Training",
+      "Sustainability and Modernization"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Coaching and Mentorship",
+    "intro": "We deliver tailored coaching and mentorship programs designed to empower individuals, MSMEs, and organizations to achieve their goals and build long-term capacity.",
+    "whatWeOffer": [
+      "Accelerated Learning",
+      "Enhanced Performance",
+      "Leadership Development",
+      "Knowledge Transfer"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Monitoring, Evaluation, Accountability, Learning (MEAL)",
+    "intro": "We design and implement robust MEAL systems that track performance, generate actionable insights, and foster adaptive learning.",
+    "whatWeOffer": [
+      "Impact assessment and measurement",
+      "Market systems analysis",
+      "Value chain analysis",
+      "Baseline, mid-term, and end-term evaluations",
+      "Feasibility studies and rapid assessments"
+    ]
+  }
+]

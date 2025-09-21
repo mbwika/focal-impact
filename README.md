@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+git checkout -b feature/initial-commit
+# make changes, then:
+git add -A
+git commit -m "Feature: Initial commit"
+git push -u origin feature/initial-commit
+
+# create PR (with GitHub CLI)
+gh pr create --fill
